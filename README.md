@@ -1,2 +1,2 @@
 # spring-crud
-CRUD con framework Spring boot
+Front End de proyecto Spring Boot Angular
